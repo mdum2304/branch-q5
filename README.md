@@ -1,5 +1,3 @@
 # eced3901-assignment1-q5git
 
-My GIT Commit!
-
-B01023988
+Here is some README file! You should change it...
